@@ -45,7 +45,7 @@ To help me with my growth in understanding the different facets of Product Manag
 •	Product Management The Journey 0-1-100
 •	The Product Experience
 
-In between, I took a certification to become a Certified Product Owner and at present, I am undergoing a 12-weeks course on Product Management from [Indian School of Business] (https://online-er.isb.edu/product-management/?utm_source=isb.edu&utm_medium=organic&utm_campaign=isb-pm&_gl=1*3m5h8g*_ga*MTU0MDYwNDMwMi4xNjQxMzgyNDIz*_ga_5WH3162DDL*MTY0MTM4MjQyMy4xLjEuMTY0MTM4NDYyMi42MA..)
+In between, I took a certification to become a Certified Product Owner and at present, I am undergoing a 12-weeks course on Product Management from [Indian School of Business](http://online-er.isb.edu/product-management/?utm_source=isb.edu&utm_medium=organic&utm_campaign=isb-pm&_gl=1*jdpm01*_ga*MTU0MDYwNDMwMi4xNjQxMzgyNDIz*_ga_5WH3162DDL*MTY0MTM4MjQyMy4xLjEuMTY0MTM4NjE5NC42MA..)
 
 Each of us have our own paths to walk and/or conquer. And the steps that I took need not be the same for you. You will have to figure out ways to identify the gaps that you might have in your role (it need not even be a Product Management role), and then figure out ways to reduce those gaps.
 
