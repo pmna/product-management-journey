@@ -1,22 +1,21 @@
 # Product Manager – The Imposter Syndrome
 
-<img width="287" alt="Capture" src="https://user-images.githubusercontent.com/97093893/148215203-6ce618e5-9b85-4c4c-a6e2-4648abc233aa.PNG">
+![claudia-ramirez-IaD_zvKQ6gU-unsplash](https://user-images.githubusercontent.com/97093893/148218246-98aca207-acb1-4bd2-a945-84ee73271992.jpg)
 Photo by Claudia Ramírez on Unsplash
+
 Looking back to the year gone by and reflecting over the work that I have accomplished over the course of the year, I came to realize that the Imposter Syndrome that I had been feeling had slowly dissipated (though not completely gone) as we (my team and I) continued to deliver features and functionalities incrementally and consistently throughout the year.
 
 It is usual for many of us to have this sense of displacement where there is an imbalance between what we perceive of ourselves and what others think of us. This happens to individuals from all walks and from almost all types of industries and domains. It affects everyone right from a fresh-out-of-college graduate to even company CEOs.
-
-![nick-morrison-FHnnjk1Yj7Y-unsplash](https://user-images.githubusercontent.com/97093893/148215232-7e5e37da-ac29-4fc0-94fe-9d5a6cf2a0df.jpg)
-Photo by Nick Morrison on Unsplash
 
 We find ourselves feeling inadequate towards our job roles and always constantly fighting it out in our minds. This daily tussle slowly saps away the energy that is genuinely required in a Product Manager role as much as any other role.
 
 As a Product Manager, we need to be abreast of developments taking place in our domains and to continuously engage our stakeholders to develop a product that would be utilized the most by our targeted segments. This requires huge reserves of energy and monumental patience and the presence of the imbalance could lead to mental fatigue.
 
+![nick-morrison-FHnnjk1Yj7Y-unsplash](https://user-images.githubusercontent.com/97093893/148215232-7e5e37da-ac29-4fc0-94fe-9d5a6cf2a0df.jpg)
+Photo by Nick Morrison on Unsplash
+
 ## What is Imposter Syndrome?
 
-<img width="287" alt="Capture" src="https://user-images.githubusercontent.com/97093893/148215203-6ce618e5-9b85-4c4c-a6e2-4648abc233aa.PNG">
-Photo by Claudia Ramírez on Unsplash
 
 As per [Wikipedia](https://en.wikipedia.org/wiki/Impostor_syndrome), Impostor syndrome is a psychological pattern in which an individual doubts their skills, talents, or accomplishments and has a persistent internalized fear of being exposed as a "fraud".
 
