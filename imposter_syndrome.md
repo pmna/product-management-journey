@@ -1,15 +1,16 @@
 #Product Manager – The Imposter Syndrome
 Looking back to the year gone by and reflecting over the work that I have accomplished over the course of the year, I came to realize that the Imposter Syndrome that I had been feeling had slowly dissipated (though not completely gone) as we (my team and I) continued to deliver features and functionalities incrementally and consistently throughout the year.
-It is usual for many of us to have this sense of displacement where there is an imbalance between what we perceive of ourselves and w<img width="287" alt="Capture" src="https://user-images.githubusercontent.com/97093893/148215203-6ce618e5-9b85-4c4c-a6e2-4648abc233aa.PNG">
-![Imposter_reality_aditya_nukala](https://user-images.githubusercontent.com/97093893/148215229-a3f70b2d-88df-4202-a505-fb8bda4553eb.png)
-![nick-morrison-FHnnjk1Yj7Y-unsplash](https://user-images.githubusercontent.com/97093893/148215232-7e5e37da-ac29-4fc0-94fe-9d5a6cf2a0df.jpg)
-hat others think of us. This happens to individuals from all walks and from almost all types of industries and domains. It affects everyone right from a fresh-out-of-college graduate to even company CEOs.
+It is usual for many of us to have this sense of displacement where there is an imbalance between what we perceive of ourselves and what others think of us. This happens to individuals from all walks and from almost all types of industries and domains. It affects everyone right from a fresh-out-of-college graduate to even company CEOs.
 We find ourselves feeling inadequate towards our job roles and always constantly fighting it out in our minds. This daily tussle slowly saps away the energy that is genuinely required in a Product Manager role as much as any other role.
 As a Product Manager, we need to be abreast of developments taking place in our domains and to continuously engage our stakeholders to develop a product that would be utilized the most by our targeted segments. This requires huge reserves of energy and monumental patience and the presence of the imbalance could lead to mental fatigue.
-![image1](https://unsplash.com/photos/ZKBzlifgkgw)
-Photo by Mimi Thian on Unsplash
+
+
+![nick-morrison-FHnnjk1Yj7Y-unsplash](https://user-images.githubusercontent.com/97093893/148215232-7e5e37da-ac29-4fc0-94fe-9d5a6cf2a0df.jpg)
+
+
+Photo by Nick Morrison on Unsplash
 ##What is Imposter Syndrome?
-![image2](https://unsplash.com/photos/IaD_zvKQ6gU)
+<img width="287" alt="Capture" src="https://user-images.githubusercontent.com/97093893/148215203-6ce618e5-9b85-4c4c-a6e2-4648abc233aa.PNG">
 Photo by Claudia Ramírez on Unsplash
 As per [Wikipedia](https://en.wikipedia.org/wiki/Impostor_syndrome), Impostor syndrome is a psychological pattern in which an individual doubts their skills, talents, or accomplishments and has a persistent internalized fear of being exposed as a "fraud".
 So, basically, it makes you feel that you are wanting of skills required for the job and less able to deliver than your peers. 
@@ -18,7 +19,7 @@ It makes you always feel inadequate towards fulfilling your work requirements an
 Since, I am used to this feeling, I did not allow it to make me helpless. Instead, I used this sense of imbalance to keep myself on my toes and to make myself remain aware of my own gaps and to attempt to take steps to fill them through activities such as listening to different podcasts related to the work that I am doing, and/or taking courses/certifications that would help me to understand the requirements of the job.
 I was also fortunate to have understanding leadership who helped me by providing clear vision and goals for the product development.
 
-![image3](C:\Users\aditya_nukala\Downloads\Imposter_reality_aditya_nukala.png)
+![Imposter_reality_aditya_nukala](https://user-images.githubusercontent.com/97093893/148215229-a3f70b2d-88df-4202-a505-fb8bda4553eb.png)
 ##How did I make it go away?
 Fortunately, or unfortunately, this syndrome and I have been bosom buddies almost throughout my career and I came to an understanding that this might continue to remain with me. And I am okay with that. 
 Because it does not mean that I am an actual imposter but what it means is that it is just a figment of my own insecurities. 
