@@ -40,10 +40,10 @@ Because it does not mean that I am an actual imposter but what it means is that 
 I took steps to harness my insecurities and channel them into what I consider as a productive outcome for me. 
 
 To help me with my growth in understanding the different facets of Product Management and Product Ownership, I started listening to different podcasts such as:
-•	Product Thinking with Melissa Perri
-•	The Product Podcast from Product School
-•	Product Management The Journey 0-1-100
-•	The Product Experience
+- Product Thinking with Melissa Perri
+- The Product Podcast from Product School
+- Product Management The Journey 0-1-100
+- The Product Experience
 
 In between, I took a certification to become a Certified Product Owner and at present, I am undergoing a 12-weeks course on Product Management from [Indian School of Business](http://online-er.isb.edu/product-management/?utm_source=isb.edu&utm_medium=organic&utm_campaign=isb-pm&_gl=1*jdpm01*_ga*MTU0MDYwNDMwMi4xNjQxMzgyNDIz*_ga_5WH3162DDL*MTY0MTM4MjQyMy4xLjEuMTY0MTM4NjE5NC42MA..)
 
