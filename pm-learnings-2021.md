@@ -2,7 +2,7 @@
 # My 5 key takeaways as a Digital Product Manager from 2021
 <img width="403" alt="top 5 learnings" src="https://user-images.githubusercontent.com/97093893/149153145-e1b445e3-63f9-4587-9284-282996cea11b.PNG">
 
-                           *"Challenge norms, push boundaries, don't fear mistakes and always be open to learning." - JJ Wilson*
+>"Challenge norms, push boundaries, don't fear mistakes and always be open to learning." - JJ Wilson
 
 When I was brought onboard in late 2020, I was given the mandate to build a new user-friendly application that would allow us to kill the legacy application that was being used at that point of time. 
 
@@ -15,7 +15,7 @@ It has been quite an eventful ride thus far which I have thoroughly enjoyed and 
 
 ## Lesson #1: Keep your Target segment engaged in the Design and Development right from the beginning - Wireframe helps
 ![jason-goodman-vbxyFxlgpjM-unsplash (1)](https://user-images.githubusercontent.com/97093893/149153227-7dd8e9ce-f1ba-4e29-8121-4195129c801f.jpg)
-Photo by Jason Goodman on Unsplash
+*Photo by Jason Goodman on Unsplash*
 
 Building applications for internal users will be different from building applications for external users. But the essence remains the same and that is to ensure that you reach out to your target segment and involve them from the beginning.
 
@@ -27,7 +27,7 @@ The wireframe need not have all the bells and whistles. It could be a basic wire
 
 ## Lesson #2: Over-communication is always better
 ![volodymyr-hryshchenko-V5vqWC9gyEU-unsplash (1)](https://user-images.githubusercontent.com/97093893/149153213-8424e81b-035b-46dc-8568-7f707287155e.jpg)
-Photo by Volodymyr Hryshchenko on Unsplash
+*Photo by Volodymyr Hryshchenko on Unsplash*
 
 Whether it is a new startup or a well-funded startup or an established firm, the management style differs. But, in whichever type of organization you work, the higher-ups would always be interested with the development progress and deliverable timelines.
 
@@ -39,7 +39,7 @@ It is a good practice to send regular updates via emails detailing the features 
 
 ## Lesson #3: Learn how to say No
 ![gemma-evans-zj475haUy2M-unsplash (1)](https://user-images.githubusercontent.com/97093893/149153195-dc0dccda-e9ac-47e8-b7de-c25f1ae0a1cd.jpg)
-Photo by Gemma Evans on Unsplash
+*Photo by Gemma Evans on Unsplash*
 
 A product is typically not built for one specific user, but for a group of users and hence there will be different set of requirements from various users. We need to strategize the requirements to ensure that they are in line with the vision of the product/solution.
 
@@ -47,7 +47,7 @@ Thus, if there are requirements which do not fit with the overall vision, we nee
 
 ## Lesson #4: Empathize towards your users and your team
 ![jon-tyson-vVSleEYPSGY-unsplash (1)](https://user-images.githubusercontent.com/97093893/149153182-9e33cc6c-a4f3-4197-a2c8-2ef70bb6587d.jpg)
-Photo by Jon Tyson on Unsplash
+*Photo by Jon Tyson on Unsplash*
 
 Customer empathy is required to understand their needs (overt and latent) and pain points. Our target users were pleasantly surprised when we brought our first developed wireframe to them and it really helped kickstart their continuous journey with us to help design a product that they themselves would regularly use.
 
