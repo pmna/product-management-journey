@@ -3,7 +3,7 @@
 
 Top 5 Learnings from 2021
 
-* "Challenge norms, push boundaries, don't fear mistakes and always be open to learning." - JJ Wilson *
+*"Challenge norms, push boundaries, don't fear mistakes and always be open to learning." - JJ Wilson*
 
 When I was brought onboard in late 2020, I was given the mandate to build a new user-friendly application that would allow us to kill the legacy application
 that was being used at that point of time. 
